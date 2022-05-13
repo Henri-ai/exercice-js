@@ -111,7 +111,7 @@
 
 
 
-//exercice2***********************************************************************************************
+//exercice2-entiers inferieur à N**********************************************************************************
 
 //let n=50
 //for (let n=50;n>=0;n--){
@@ -119,23 +119,18 @@
 //console.log(n);
 //}
 
-//exercice3************************************************************************************************
+//exercice3-moyenne************************************************************************************************
 
 
-            let nombre=0;
-			let somme=0;
-			let moyenne=0;
-			let nb_notes=0;
-		
-            for(nombre=0;nombre==nb_notes;nombre+nb_notes)
-            {
-            nb_notes=prompt("Souhaitez-vous faire la moyenne de combien de notes ?",nb_notes); 
-            nombre=prompt("entrez la note")
-                
-			moyenne=(somme/nb_notes);
-            alert("la moyenne des notes est :"+moyenne)
-            }
-console.log(nombre)
+
+
+
+
+
+
+
+
+//exercice4-multiples************************************************************************************************
 
 
 
@@ -149,7 +144,68 @@ console.log(nombre)
 
 
 
+//exercice5-nombre de voyelle****************************************************************************************
 
+
+
+
+
+
+
+
+
+//exercice tableau 1*************************************************************************************************
+
+//let tableau = [,,,,];
+
+//tableau [0]= window.prompt("Saisir la première valeurs")
+//tableau [1]= window.prompt("Saisir la seconde valeurs")
+//tableau [2]= window.prompt("Saisir la Troisième valeurs")
+//tableau [3]= window.prompt("Saisir la Quatrième valeurs")
+
+//console.log(tableau)
+
+//exercice tableau 2**************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//exercice tableau 3**************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//exercice fonction 1**************************************************************************************************
+
+function 
 
 
 
