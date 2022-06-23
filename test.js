@@ -121,30 +121,50 @@
 
 //exercice3-moyenne************************************************************************************************
 
+// let i = -1;//nombre d'entrée
+// let somme = 0;//somme des entrées
+// let moyenne = 0;//somme divisée par i
+// let nombre=null;//les entrées
+
+// do
+// {
+
+// i++;
+
+// nombre = prompt("Saissisez des entiers")
+
+// somme= parseFloat(somme)+parseFloat(nombre);
+// moyenne = somme / i;
 
 
-
-
-
-
-
+// }while(nombre!=0)
+// console.log(i)
+// console.log(somme)
+// console.log(moyenne)
 
 
 //exercice4-multiples************************************************************************************************
 
+//let N
+//let X
+//N=window.prompt("Entrez un nombre")
+//X=window.prompt("Entrez le chiffre multiplicateur")
 
+//while(N>=0,N*X,X--,X>=0)
+//{
 
+//console.log(+X+"x"+N+"="+N*X)
 
-
-
-
-
-
-
-
+//}
 
 
 //exercice5-nombre de voyelle****************************************************************************************
+
+
+
+
+
+
 
 
 
@@ -205,7 +225,6 @@
 
 //exercice fonction 1**************************************************************************************************
 
-function 
 
 
 
@@ -214,14 +233,32 @@ function
 
 
 
+//exercice objet natif*************************************************************************************************
 
+// let tableau=[]
+// let i
+// let somme=0
+// let moyenne
 
+// do {
+//     i =  parseInt(prompt("entrez une valeur"))
 
+// if(i!=0){
+//     tableau.push(i)
 
+// }
 
+// } while (i != 0);
 
+// console.log (tableau)
 
+// for (let x=0;x<tableau.length;x++){
+//     somme+=tableau[x]
+// }
 
+// console.log(tableau.length)
+// console.log(somme)
+// moyenne=console.log(somme/tableau.length)
 
-
+//********************************************************************************************************************* */
 
